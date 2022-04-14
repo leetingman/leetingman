@@ -17,7 +17,7 @@ I'm a graduate in Computer Science from Haerbin Insitute of Technology(HIT) Univ
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; 
+- 💻 &nbsp;&nbsp;  
 - 📰 &nbsp; 
 - 🍕 &nbsp; 
 
